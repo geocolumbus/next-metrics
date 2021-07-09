@@ -4,6 +4,7 @@
     
     git clone https://github.com/geocolumbus/next-metrics.git
     cd next-metrics
+    npm install
     npm run dev
 
 Navigate to localhost:3002/metrics
