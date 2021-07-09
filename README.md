@@ -1,8 +1,9 @@
 # Metrics - Integrating next.js with a Prometheus client
 
 ## Usage
-
-    git clone
+    
+    git clone https://github.com/geocolumbus/next-metrics.git
+    cd next-metrics
     npm run dev
 
 Navigate to localhost:3002/metrics
