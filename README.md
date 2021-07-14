@@ -15,5 +15,6 @@ Navigate to localhost:3002/metrics
 
 ## Reference
 
+* [next.js custom server](https://nextjs.org/docs/advanced-features/custom-server)
 * [Prometheus client for node.js (prom-client)](https://github.com/siimon/prom-client)
 * [Is there a way to use Prometheus with Next.js?](https://github.com/vercel/next.js/discussions/16205)
